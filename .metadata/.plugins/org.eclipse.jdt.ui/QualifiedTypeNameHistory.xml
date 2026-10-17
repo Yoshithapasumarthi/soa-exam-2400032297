@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="com.sun.tools.classfile.InnerClasses_attribute.Info"/>
+    <fullyQualifiedTypeName name="com.klef.soa.controller.ElectricalRepairController"/>
+    <fullyQualifiedTypeName name="com.klef.soa.service.ElectricalRepairService"/>
+    <fullyQualifiedTypeName name="com.klef.soa.entity.ElectricalRepairEntity"/>
+</qualifiedTypeNameHistroy>

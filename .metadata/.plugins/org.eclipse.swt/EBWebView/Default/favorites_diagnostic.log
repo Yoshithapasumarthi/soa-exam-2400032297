@@ -1,0 +1,39 @@
+2026-10-13 10:12:11.416: [INFO] CurrentProfilePath: C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 10:12:11.416: [INFO] Profiles total count: 1
+2026-10-13 10:12:11.416: [INFO] Profile: name=Profile 1 path=C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-13 10:12:11.416: [INFO] LastUsedProfileDir: C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 10:12:11.416: [INFO] OnDoneLoading sync enabled: 0
+2026-10-13 10:12:11.416: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-13 10:12:11.416: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-13 10:12:11.416: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 10:12:18.529: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 10:12:22.018: [INFO] CurrentProfilePath: C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 10:12:22.018: [INFO] Profiles total count: 1
+2026-10-13 10:12:22.018: [INFO] Profile: name=Profile 1 path=C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-13T10:12:12.302Z
+2026-10-13 10:12:22.018: [INFO] LastUsedProfileDir: C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-13 10:12:22.018: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-13T10:12:12.302Z
+2026-10-13 10:12:22.018: [INFO] OnDoneLoading sync enabled: 0
+2026-10-13 10:12:22.018: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-13 10:12:22.018: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-13 10:12:22.018: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-13 10:20:37.207: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-17 01:31:59.197: [INFO] CurrentProfilePath: C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-17 01:31:59.197: [INFO] Profiles total count: 1
+2026-10-17 01:31:59.197: [INFO] Profile: name=Profile 1 path=C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-13T10:12:12.302Z
+2026-10-17 01:31:59.197: [INFO] LastUsedProfileDir: C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-17 01:31:59.197: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-13T10:12:12.302Z
+2026-10-17 01:31:59.197: [INFO] OnDoneLoading sync enabled: 0
+2026-10-17 01:31:59.197: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-17 01:31:59.197: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-17 01:31:59.197: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-17 04:04:24.769: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-17 04:09:46.165: [INFO] CurrentProfilePath: C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-17 04:09:46.165: [INFO] Profiles total count: 1
+2026-10-17 04:09:46.165: [INFO] Profile: name=Profile 1 path=C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-13T10:12:12.302Z
+2026-10-17 04:09:46.165: [INFO] LastUsedProfileDir: C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-17 04:09:46.165: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\S51\SOA\EXAMWORKSPACE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-13T10:12:12.302Z
+2026-10-17 04:09:46.165: [INFO] OnDoneLoading sync enabled: 0
+2026-10-17 04:09:46.165: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-17 04:09:46.165: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-17 04:09:46.165: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-17 04:27:08.893: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
